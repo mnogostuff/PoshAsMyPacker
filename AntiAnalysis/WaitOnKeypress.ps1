@@ -1,0 +1,4 @@
+Function WaitOnKeypress
+{
+    return $True
+}
